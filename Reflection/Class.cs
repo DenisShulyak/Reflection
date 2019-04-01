@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ReflectionHomeWork
 {
-    class Class
+   public class Class
     {
         public string _name = "Ivan";
         public string _surname = "Ivanov";
